@@ -1,9 +1,9 @@
 .flex-nav.animated-hidden{
-  display: none;
+  display: none !important;
 }
 #rocket-chat{
-  flex-direction: row-reverse;
+  flex-direction: row-reverse !important;
 }
 .wrapper{
-  background-image:url("/file-upload/ZZrLo5GkxQnkd5b3T/1.gif");
+  background-image:url("/file-upload/ZZrLo5GkxQnkd5b3T/1.gif") !important;
 }
